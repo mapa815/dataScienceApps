@@ -1,10 +1,5 @@
-# randomCodes
+# Data Science Apps
 
 # Contents
 
-1) Some commits involve sudden changes in past private codes
-2) messing in leetcode
-
-# Messing in leetcode
-
-Currently random codes solved on leetcode
+1) Simple Data Science apps using python
