@@ -14,5 +14,5 @@ streamlit run 'name of the file'.py
 Ex. 
 If the python file is called stock_app, then the command will be:
 ```
-stramlit run stock_app.py
+streamlit run stock_app.py
 ```
