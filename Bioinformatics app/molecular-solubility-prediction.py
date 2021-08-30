@@ -59,7 +59,7 @@ def generate(smiles, verbose=False):
 # Page Title
 ######################
 
-image = Image.open('logo.png')
+image = Image.open('molecular.png')
 
 st.image(image, use_column_width=True)
 
